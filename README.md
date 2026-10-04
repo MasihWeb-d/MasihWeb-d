@@ -28,25 +28,3 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MasihWeb-d&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasihWeb-d&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-
-</div>
