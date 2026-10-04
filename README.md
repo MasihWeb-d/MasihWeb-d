@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== Banner Image ===== -->
-<img src="https://raw.githubusercontent.com/MasihWeb-d/MasihWeb-d/main/linkdin-cover.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/MasihWeb-d/MasihWeb-d/main/github-cover.png" alt="Banner" width="100%" />
 
 <br/><br/>
 
