@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<h1>Hi, I'm Masih </h1>
+<h1>I'm Masih </h1>
 
 </div>
 
